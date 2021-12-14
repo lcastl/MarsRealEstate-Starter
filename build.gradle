@@ -8,7 +8,7 @@ buildscript {
         
         version_android_gradle_plugin = '4.0.1'
         version_core = "1.6.0"
-        version_constraint_layout = "2.1.0"
+        version_constraint_layout = "2.1.1"
         version_glide = "4.8.0"
         version_kotlin = "1.5.30-RC"
         version_lifecycle = "2.3.1"
